@@ -1,0 +1,107 @@
+\section*{4}
+
+\begin{multicols}{2}
+
+\noindent\entry{catholic}{Universal; embracing everything [관심, 흥미, 취미가] 광범위한, 보편적인; 관대한, 마음이 넓은}
+
+\VS\noindent\entry{caustic}{Like acid; corrosive 부식성의, 신랄한, 통렬한}
+
+\VS\noindent\entry{celibacy}{Abstinence from sex 독신, 독신생활, 금욕}
+
+\VS\noindent\entry{censure}{To condemn severely for doing something bad  비난하다, 나무라다, 혹평하다, 견책하다}
+
+\VS\noindent\entry{cerebral}{Brainy; intellectually refined 대뇌의, 뇌리; 지적인, 지성에 호소하는}
+
+\VS\noindent\entry{chagrin}{Humiliation; embarrassed disappointment 유감, 원통함, 부함}
+
+\VS\noindent\entry{charisma}{A magical-seeming ability to attract followers or inspire loyalty  재능, 권능; 권위, 비상한 매력}
+
+\VS\noindent\entry{charlatan}{Fraud; quack; con man 지독한 허풍선이, 엉터리의; 돌팔이 의사}
+
+\VS\noindent\entry{chasm}{A deep, gaping hole; a gorge 깊게 갈라진 틈, 금, 균열; 단절, 결합; 차이, 불화}
+
+\VS\noindent\entry{chastise}{To inflict punishment on; to discipline 응징하다, 징벌하다; 몹시 비난하다}
+
+\VS\noindent\entry{chicanery}{Trickery; deceitfulness; artifice; especially legal or political 꾸며댐, 발뺌, 속임수}
+
+\VS\noindent\entry{chimera}{An illusion; a foolish fancy 망상, 괴물}
+
+\VS\noindent\entry{choleric}{Hot-tempered; quick to anger 성마른, 화 잘 내는}
+
+\VS\noindent\entry{chronic}{Constant; lasting a long time; inveterate 만성의 고질적인, 오래 끄는}
+
+\VS\noindent\entry{chronicle}{A record of events in order of time; a history 연대, 편년사, 기록}
+
+\VS\noindent\entry{circuitous}{Roundabout; not following a direct path 우회의, 에두르는, 완곡한}
+
+\VS\noindent\entry{circumlocution}{An indirect expression; use of wordy or evasive language  완곡한 표현, 넌지시 하는 말, 핑계}
+
+\VS\noindent\entry{circumscribe}{To draw a line around; to set the limits; to define; to restrict. ..의 둘레에 선을 긋다, 경계선을 긋다; 제한하다, 한계를 정하다; 외접하다}
+
+\VS\noindent\entry{circumspect}{Cautious 신중한, 용의주도한, 주의 깊은}
+
+\VS\noindent\entry{circumvent}{To frustrate as though by surrounding  우회하다, 교묘하게 회피하다; 앞지르다, 선수치다; 포위하다}
+
+\VS\noindent\entry{civil}{Polite; civilized; courteous 시민의, 민간의}
+
+\VS\noindent\entry{clemency}{Mercy; forgiveness; mildness(기후의) 온화; 관대, 인정많은}
+
+\VS\noindent\entry{clich  }{An overused saying or idea 진부한 표현, 상투적인 문구}
+
+\VS\noindent\entry{clique}{An exclusive group bound together by  some shared quality or interest 도당, 파벌}
+
+\VS\noindent\entry{coalesce}{To come together as one; to fuse; to unite 연합하다, 유착하다; 연합시키다}
+
+\VS\noindent\entry{coerce}{To force someone to do or not to do something 지배하다, 강제하다, 강요하다}
+
+\VS\noindent\entry{cogent}{Powerfully convincing 유력한, 사람을 수긍시키는}
+
+\VS\noindent\entry{cognitive}{Dealing with how we know the world around us through our senses; mental 인식의, 인식력이 있는}
+
+\VS\noindent\entry{cognizant}{Aware; conscious 인식하고 있는, 알고 있는}
+
+\VS\noindent\entry{coherent}{Holding together; making sense 일관된, 조리가 서는; 응집성의, 밀착한}
+
+\VS\noindent\entry{colloquial}{Conversational; informal in language 구어체}
+
+\VS\noindent\entry{collusion}{Conspiracy; secret cooperation 공모, 결탁}
+
+\VS\noindent\entry{commensurate}{Equal; proportionate 같은 양의, 같은 시간의; 균형 잡힌}
+
+\VS\noindent\entry{compelling}{Forceful; causing to yield...하지 않을 수 없는, 강제적인}
+
+\VS\noindent\entry{compendium}{A summary; an abridgment 개략, 요약, 일람표}
+
+\VS\noindent\entry{complacent}{Self-satisfied; overly pleased with oneself; contented to a fault 자기 만족의, 은근한, 마음에 흡족한}
+
+\VS\noindent\entry{complement}{To complete or fill up; to be the perfect counterpart  보충하여 완전케하다, 보완하다, 보충하다}
+
+\VS\noindent\entry{complicity}{Participation in wrongdoing; the act of being an accomplice 공모, 연루, 공범}
+
+\VS\noindent\entry{comprehensive}{Covering or including everything 포괄적인, 넓은; 이해력이 있는, 이해가 빠른}
+
+\VS\noindent\entry{comprise}{To consist of; to be composed of cf) constitute, compose 포함하다, 품다, 의미하다; 구성되다, 성립되다}
+
+\VS\noindent\entry{conciliatory}{Making peace; attempting to resolve a dispute through goodwill 타협적인, 융화적인, 회유적인}
+
+\VS\noindent\entry{concise}{Brief and to the point; succinct 간결한, 간명한}
+
+\VS\noindent\entry{concord}{Harmony; agreement 의견의 일치, 화합, 협조; 협정}
+
+\VS\noindent\entry{concurrent}{Happening at the same time; parallel 동시에 일어나는, 협동의}
+
+\VS\noindent\entry{condescend}{To stoop to someone elses level, usually in an offensive way; to patronize 겸손하게 굴다, 자신을 낮추다}
+
+\VS\noindent\entry{condone}{To overlook; to permit to happen 용서하다, 묵과하다}
+
+\VS\noindent\entry{conducive}{Promoting 도움이 되는, 이바지하는}
+
+\VS\noindent\entry{confluence}{A flowing together, especially of rivers; place where they begin to flow together 합류, (사람 등의) 집합, 군중}
+
+\VS\noindent\entry{congenial}{Agreeably suitable; pleasant 같은 성질의, 마음에 맞는, 적합한, 붙임성 있는}
+
+\VS\noindent\entry{congenital}{A trait or condition acquired between conception and birth; innate 선천적인, 타고난}
+
+\VS\end{multicols}
+
+ \newpage

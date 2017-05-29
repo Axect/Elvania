@@ -1,0 +1,107 @@
+\section*{16}
+
+\begin{multicols}{2}
+
+\noindent\entry{succumb}{to yield or submit; to die 죽다, 쓰러지다; 굴복하다, 지다}
+
+\VS\noindent\entry{supercilious}{haughty; patronizing 거드름을 피우는, 거만한}
+
+\VS\noindent\entry{superficial}{on the surface only; shallow; not thorough  표면적인, 외면의; 피상적인, 허울뿐인; 영향이 적은}
+
+\VS\noindent\entry{superfluous}{extra; unnecessary; redundant 남아도는, 불필요한}
+
+\VS\noindent\entry{surfeit}{excess; an excessive amount; excess or overindulgence in eating or drinking 과식, 과음, 포만}
+
+\VS\noindent\entry{surreptitious}{sneaky; secret 은밀한, 부정한, 간교한}
+
+\VS\noindent\entry{surrogate}{substitute 대리의, 대용의}
+
+\VS\noindent\entry{sycophant}{one who sucks up to others 아첨꾼}
+
+\VS\noindent\entry{synthesis}{the combing of parts to form a whole 통합, 종합; 합성}
+
+\VS\noindent\entry{tacit}{implied; not spoken 무언의, 암묵적인, 암시하는(implied)}
+
+\VS\noindent\entry{taciturn}{untalkative by nature 말없는, 입이 무거운, 무뚝뚝한}
+
+\VS\noindent\entry{tangential}{only superficially related to the matter at hand; not especially relevant; peripheral 접선의, 접하는; 탈선적인, 주제를 벗어난}
+
+\VS\noindent\entry{tangible}{touchable; palpable 만질 수 있는(touchable, palpable), 만져서 알 수 있는, 실속있는, 명백한, 확실한}
+
+\VS\noindent\entry{tantamount}{equivalent to 동등한, 상당하는}
+
+\VS\noindent\entry{tautological}{redundant; circular 동의어의, 중언부언의; 과다한(redundant)}
+
+\VS\noindent\entry{temerity}{boldness; recklessness; audacity 만용, 무모(boldness; recklessness; audacity)}
+
+\VS\noindent\entry{temperate}{mild; moderate; restrained 기온이 온화한(mild), 온건한, 절제하는}
+
+\VS\noindent\entry{tenable}{defensible, as in ones position in an argument; capable of being argued successfully; valid 공격에 견딜 수 있는, 지지 받을 수 있는, 유리할 수 있는}
+
+\VS\noindent\entry{tenacious}{persistent; stubborn; not letting go  고집센(persistent), 몹시 집착하는, 완고한(stubborn)}
+
+\VS\noindent\entry{tenet}{a shared principle or belief 종교나 정치 혹은 철학 따위의 주의}
+
+\VS\noindent\entry{tentative}{experimental; temporary; uncertain  잠정적인, 시험적인, 임시의; 주저하는, 머뭇거리는}
+
+\VS\noindent\entry{tenuous}{flimsy; extremely thin 얇은, 희박한, 가는}
+
+\VS\noindent\entry{terse}{using no unnecessary words; succinct 간결한(succinct)}
+
+\VS\noindent\entry{theology}{the study of god or religion 신학, 종교 심리학}
+
+\VS\noindent\entry{tirade}{prolonged, bitter speech 장광설, 신랄한 연설}
+
+\VS\noindent\entry{torpor}{sluggishness; inactivity; apathy 무감각, 둔한, 동면}
+
+\VS\noindent\entry{touchstone}{a standard; a test of authenticity or quality  금이나 은의 순도를 판별하는 시금석, 표준}
+
+\VS\noindent\entry{tout}{to praise highly; to brag publicly about ...을 극구 칭찬하다, ...에 대해 말하다; 성가시게 권유하다}
+
+\VS\noindent\entry{transcend}{to go beyond or above; to surpass 초월하다, 능가하다, 우수하다}
+
+\VS\noindent\entry{transgress}{to violate (a law); to sin 범하다, 어기다(violate)}
+
+\VS\noindent\entry{transient}{not staying for a long time; temporary 일시적인, 변하기 쉬운}
+
+\VS\noindent\entry{trepidation}{fear; apprehension; nervous trembling 공포(fear), 전율, 놀람, 당황}
+
+\VS\noindent\entry{turpitude}{shameful wickedness; depravity 비열, 타락, 비열한 행위}
+
+\VS\noindent\entry{ubiquitous}{being everywhere at the same time 어디에나 있는, 편재하는}
+
+\VS\noindent\entry{unconscionable}{not controlled by conscience; unscrupulous 불합리한, 터무니없는, 비양심적인}
+
+\VS\noindent\entry{unctuous}{oily, both literally and figuratively; insincere  기름 같은, 매끈한, 아주 감동한 체하는, 상냥한}
+
+\VS\noindent\entry{uniform}{consistent; unchanging; the same for everyone  일정한, 균일한(consistent, unchanging)}
+
+\VS\noindent\entry{unremitting}{unceasing; unabated; relentless 간단없는, 끈질긴}
+
+\VS\noindent\entry{unwitting}{unintentional; ignorant; not aware 무의식의, 생각나지 않는}
+
+\VS\noindent\entry{urbane}{poised; sophisticated; refined 도시풍의, 점잖은, 세련된}
+
+\VS\noindent\entry{usurp}{to seize wrongfully 권력이나 지위를 빼앗다, 찬탈하다, 침해하다}
+
+\VS\noindent\entry{utilitarian}{stressing usefulness or utility above all other qualities; pragmatic  공리적인, 실용적인, 공리주의의}
+
+\VS\noindent\entry{utopia}{an ideal society }
+
+\VS\noindent\entry{vacillate}{to be indecisive; to waver 흔들리다, 동요하다; 주저하다, 망설이다}
+
+\VS\noindent\entry{vapid}{without liveliness; dull; spiritless 맛없는, 김빠진, 지루한}
+
+\VS\noindent\entry{vehement}{intense; forceful; violent 열심인, 열렬한, 열정적인, 맹렬한}
+
+\VS\noindent\entry{venal}{capable of being bribed; willing to do anything for money; corrupt 돈으로 좌우할 수 있는, 매수할 수 있는, 매수되기 쉬운; 타락한, 부패한}
+
+\VS\noindent\entry{venerate}{to revere; to treat as something holy, especially because of great age 존경하다, 공경하다}
+
+\VS\noindent\entry{veracity}{truthfulness 진실, 성실, 정직}
+
+\VS\noindent\entry{verbose}{using too many words; not succinct; circumlocutory  말이 많은, 장광설의, 장황한}
+
+\VS\end{multicols}
+
+ \newpage

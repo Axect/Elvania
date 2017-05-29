@@ -1,0 +1,3 @@
+koreatech,2,4,4
+kyungi,1,1,1
+aju,2,4,4
